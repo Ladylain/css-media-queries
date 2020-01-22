@@ -1,0 +1,55 @@
+/**
+*
+* Devices : Laptop / Desktop > 1920px
+* Orientation : -
+*
+**/
+@media (max-width: 1920px ) {
+
+}
+/**
+*
+* Devices : Laptop / Desktop < 1920px
+* Orientation : -
+*
+**/
+@media (min-width: 1920px ) {
+
+}
+/**
+*
+* Devices : iPad Mini 4 / 10.2" / Pro 10.5" / Pro 12.9" 
+* Orientation : landscape
+*
+**/
+@media only screen and (min-device-width : 1024px) and (max-device-width : 1366px) and (orientation : landscape)  { 
+
+}
+
+/**
+*
+* Devices : iPad Mini 4 / 10.2" / Pro 10.5" / Pro 12.9" 
+* Orientation : portrait
+*
+**/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait)  { 
+
+}
+/**
+*
+* Devices : iPhone SE / 7 / 7+ / 8 / 8+ / X / Xs / Xs Max / Xr / 11 PRO / 11 PRO Max / 11 
+* Orientation : landscape
+*
+**/
+@media only screen and (min-device-width : 568px) and (max-device-width : 900px) and (orientation : landscape)  { 
+
+}
+/**
+*
+* Devices : iPhone SE / 7 / 7+ / 8 / 8+ / X / Xs / Xs Max / Xr / 11 PRO / 11 PRO Max / 11 
+* Orientation : portrait
+*
+**/
+@media only screen and (min-device-width : 320px) and (max-device-width : 667px) and (orientation : portrait)  { 
+
+}
